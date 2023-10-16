@@ -1,0 +1,285 @@
+#EXTM3U
+######################## APARIÇÕES DE JACAREI ########################
+#EXTINF:-1 tvg-logo="" group-title="Santuario",TV Apparitions App Tv-MATE
+https://xtreamdeck.b-cdn.net/voltaika/voltaika/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Santuario",TV Apparitions App OTT
+https://xtreamdeck.b-cdn.net/client1origin/client1_source/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.apparitionstv.com/assets/img/thumb2.png" group-title="Santuario",Radio Apparitions
+https://xtreamdeck.b-cdn.net/client1origin/radioapptv32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Santuario",TV Fatima Portugal
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Santuario",TV Fatima Portugal 1
+https://streamer-b02.videos.sapo.pt/live/santuario/chunklist_w393738033.m3u8
+
+####### LIVES ########
+#EXTINF:-1 tvg-logo="" group-title="Live",MeuTimao
+
+#EXTINF:-1 tvg-logo="" group-title="Live",Premierie TV
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/premiereclubes_3f1522d0_dbf2c7a7ebce5689c3f7eb32904245452327e714/playlist.m3u8
+
+#################### NOTICIAS ####################
+#EXTINF:-1 tvg-logo="" group-title="Noticias",BRICS - 5 Paises Emergentes
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",SIC Internacional (Portugal)
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Porto Canal (Portugal)
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",JP News HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",JP News2 HD 
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Band News HD
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Band News HD 2
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Globo News HD
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CNN Brasil
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CNN Brasil Site
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CNN News EUA
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",ABC News Live 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Bloomberg EUA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CBS News EUA
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",CBS News2 
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",BBC World News
+http://video.telesafor.com/hls/video.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Noticias", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",França 24 (FR) 
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",França 24 (ENG) 
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",RaiNews 24 Italia
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Noticias",News max TV 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Global News Canada 
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Sky News  
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias",NHK Japan
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+##################### Publica ###########################
+#EXTINF:-1 tvg-logo="" group-title="Publica",NASA
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",NASA Publico
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Agro Mais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV AgroBrasil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Verdes Campos MT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV MACKENZIE EDUC
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV FAAP EDUC
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV UFG EDUC
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",PUC TV GO
+http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="" group-title="Publica", UNISC EDUC (FUTURA)
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",SescTV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica", TV Câmara SP
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Câmara Jacarei
+http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Câmara Federal
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Câmara Federal 2
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Senado
+http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Justiça
+http://www.tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TVE Bahia SÃO JOÃO JUNINA
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2049573496_b6096000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TV EBC
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Escola
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Para
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Brasil 2
+#EXTINF:-1 tvg-logo="" group-title="Publica",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Publica",TV Aberta NGT
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+############################## ABERTOS ##############################
+#EXTINF:-1 tvg-logo="" group-title="Cultura",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cultura",TV Cultura2
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cultura",TV Cultura SP
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cultura",TV Cultura Baiana
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cultura",TV Cultura Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Cultura",TV Cultura (PR) Catve
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT1 PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT2 Recife PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT3- TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT4 - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT5 Caruaru PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT6 - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT7 - Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT8 - TV Paraense (PA)
+https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT9 Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1160452656.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT10 Tangara Serra MT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT11 São Luis MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT12 Imperatriz (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Sbt",SBT13 TV (MA)
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT14
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT15
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT16
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT17
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT18
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sbt",SBT19
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Globo",GLOBO SP 
+https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=177.140.107.65&token=08617c9390135a2b34909da131ff1b04be4c82f5-bbd3d9ac01762375a67eba955878e852-1678075077-1678071477
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Globo",GLOBO RJ
+https://server100.online/globo-rj/tracks-v1a1/mono.m3u8?remote=177.140.107.65&token=396f6fc38c5207e6a3da3c0e2e83f7c6fc3829e9-e4a5487e1db5fd2c7e051e736f35b439-1678066084-1678062484 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Globo",GLOBO BA 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Record", RecordTV SP
+http://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Record", RecordTV SP2
+http://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Record",RecordTV Mato Grosso-TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RedeTV",RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="" group-title="RedeTV",RedeTV! Pampa RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RedeTV",RedeTV! ES
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/12/logo-gazeta-cor.png" group-title="Gazeta",TV Gazeta SP
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/12/logo-gazeta-cor.png" group-title="Gazeta",TV Gazeta SP2
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w147346749.m3u8
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/12/logo-gazeta-cor.png" group-title="Gazeta",TV Gazeta SP3
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w1893237748.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MegaTV",MegaTV
+
+#EXTINF:-1 tvg-logo="" group-title="Polishop",TV Polishop tv
+http://pfsv.io:80/0748785/7972/124
+#EXTINF:-1 tvg-logo="" group-title="ShopTime",ShopTimeTV
+https://play.brasiltvweb.com/v3/youshi/m3_Da13mKkYHeZiikau60v9_480p.m3u8?session_id=aNkzxVnnVUa8&app_ver=10101&auth_id=61204762_com.global.brasiltvweb&client_ip=2804:14c:d1:64cd:6848:301b:777c:2a53&user_id=61204762&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=0e3860b9&expired=1643495003&token=2983BD045E9221D7C81275540D54BB78&media_code=m3_Da13mKkYHeZiikau60v9_480p
+#EXTINF:-1 tvg-logo="" group-title="Rede Brasil",Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Rede Brasil",Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Rede Brasil",Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",BandPlay TV SP
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-fJ8Q4x8FCxfKqJAUZMOiKLtImxjksdbPPH0Xio16WVf)/cloud/3/x82cxbb/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Band",Band SP 2
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Band",Band SP Interior
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Band",Band TV PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="Band",Band RBA TV PA2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Band",Band TV TEXT
+https://m3u9.ml/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=GA_44eygwgcoE4gvRoD6PQ&3U1G7qaTxrPbalZnEx=1678092044
+#EXTINF:-1 tvg-logo="" group-title="Top",TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Top",TOP TV - TV ESTADO
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT
+https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT SP
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT RJ
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT RS
+http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT PR
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT PR2
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cnt",CNT DF
+http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
